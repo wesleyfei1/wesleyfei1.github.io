@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/firstyear/week3/index.html
-title: Levi的大二上week3
+title: Levi的大一上week3
 ---
 
 ## 回顾

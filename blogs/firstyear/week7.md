@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/firstyear/week7/index.html
-title: Levi的大二上week7
+title: Levi的大一上week7
 ---
 > 快船总冠军！！！！！ ——wesley fei
 ## 回顾

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/firstyear/week10/index.html
-title: Levi的大二上week10
+title: Levi的大一上week10
 ---
 >无论是冰之大地，还是火焰之水，都无所谓！看到它们的人，就是自由的！ ——艾伦耶格尔
 ## 回顾

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/firstyear/week8/index.html
-title: Levi的大二上week8
+title: Levi的大一上week8
 ---
 ## 回顾
 ### 周一

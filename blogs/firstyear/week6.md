@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/firstyear/week6/index.html
-title: Levi的大二上week6
+title: Levi的大一上week6
 ---
 ## 回顾
 这一周我还是干了很多的事情的，虽然时间只有短短的几天，但是做的事情感觉比上一周要多，可能是因为自己变得更加的自律了，在学习的时候不会摆烂，这一点才是最重要的。

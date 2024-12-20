@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/firstyear/week9/index.html
-title: Levi的大二上week9
+title: Levi的大一上week9
 ---
 >我们生来，就是自由的! ——艾伦耶格尔
 ## 回顾
