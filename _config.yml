@@ -1,3 +1,4 @@
+title: 利威尔的日常生活
 
 url: https://wesleyfei1.github.io
 
@@ -39,4 +40,4 @@ disqus:
   shortname: Hanji
 
 include: [".htaccess"]
-exclude: ["lib" , "config.rb" , "Capfile" , "log" , "Rakefile" , "Rakefile.rb" , "tmp" , "less" , "minimal-mistakes.sublime-project" , "minimal-mistakes.sublime-workspace"]
+exclude: ["lib" , "config.rb" , "Capfile" , "config" , "log" , "Rakefile" , "Rakefile.rb" , "tmp" , "less" , "minimal-mistakes.sublime-project" , "minimal-mistakes.sublime-workspace"]
