@@ -4,6 +4,8 @@ permalink: /blogs/firstyear/week9/index.html
 title: Levi的大一上week9
 ---
 >我们生来，就是自由的! ——艾伦耶格尔
+
+
 ## 回顾
 这一周总体过的还行把，学了很多，也有点点的摆烂，主要还是焦虑，还是要把自己的东西写下来自及 才放心。
 ### 周一

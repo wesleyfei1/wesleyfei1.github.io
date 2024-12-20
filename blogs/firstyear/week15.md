@@ -4,6 +4,7 @@ permalink: /blogs/firstyear/week15/index.html
 title: Levi的大一上week15
 ---
 >希望我登哥今年可以拿下总冠军！ ——Wesley Fei
+
 ## 回顾
 这一周总体上过的还是比较的充实的，做了非常多的事情，但是自己也摆烂了很多时间，总体上可以说的上是喜忧参半吧。
 ### 周一
