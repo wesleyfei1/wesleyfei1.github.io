@@ -2,41 +2,32 @@
 layout: page
 ---
 
-# About Me
+# Wesley Fei 
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+我的英文名是**Wesley Fei**,中文名叫费维瀚，出生于2007年6月15日，家乡是安徽省合肥市，先就读于中国科学技术大学少年班学院，目前心仪专业是电子信息工程，同时准备辅修物理或者计算机。<br>
+-  行政班级:少年班学院8班
+-  地址:中国科学技术大学中区4号楼1305三号铺
+-  班主任: 李童童
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
-
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
-
----
-
-## Research Interests
-
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
----
-
-## News and Updates
-
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+# 社交媒体
+- 邮箱: feiwh2400@mail.ustc.edu.cn
+- b站:  [LeviAkaman的个人主页-bilibili](https://space.bilibili.com/3546714359204345)
+- 知乎：[2400fwh-zhihu.com](https://www.zhihu.com/people/2400fwh/)
+- USTC评课社区：
+# 目前主攻项目
+- 2025CUPT滴水龙头
+# 主要获奖情况
+- 2025.1 第十五届全国大学生数学竞赛（非数学类） 安徽赛区三等奖
+# 教育经历
+- 2024.9-2028.6 就读于中国科学技术大学少年班学院
+- 2021.9-2024.6 就读于江苏省常州高级中学强基班
+- 2019.9-2021.6 就读于江苏省常州外国语学校
+- 2013.9-2019.6 就读于江苏省常州市三井实验小学 
+# 其余获奖情况
+- 2024年中国科学技术大学少创班以营一92+72，营二85+72+78获得A档
+- 2024.8  *TOEFL*首考获得24+21+22+22的分数
+- 2024.12 通过英语四级考试
+- 2024.12 独立完成游戏`我在中国科大卷GPA`
+# 论文情况
+- 费维瀚，日本动漫在理工科大学流行原因调查，2024.11
+- 费维瀚，木星对地球轨道偏心率的周期性影响探究 2024.12
