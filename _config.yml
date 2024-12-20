@@ -37,7 +37,7 @@ kramdown:
   enable_coderay: false
 
 disqus:
-  shortname: Hanji
+  shortname: Levi
 
 include: [".htaccess"]
 exclude: ["lib" , "config.rb" , "Capfile" , "config" , "log" , "Rakefile" , "Rakefile.rb" , "tmp" , "less" , "minimal-mistakes.sublime-project" , "minimal-mistakes.sublime-workspace"]
