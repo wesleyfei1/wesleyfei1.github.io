@@ -17,6 +17,7 @@ title: Blogs
 - [2024.11.02第9周的生活](https://wesleyfei1.github.io/blogs/firstyear/week9)
 - [2024.10.09第10周的生活](https://wesleyfei1.github.io/blogs/firstyear/week10)
 - [2024.11.17第11周的生活](https://wesleyfei1.github.io/blogs/firstyear/week11)
+- [2024秋季期中总结](https://wesleyfei1.github.io/blogs/firstyear/mid-term-conclusion)
 - [2024.11.23第12周的生活](https://wesleyfei1.github.io/blogs/firstyear/week12)
 - [2024.12.01第13周的生活](https://wesleyfei1.github.io/blogs/firstyear/week13)
 - [2024.12.08第14周的生活](https://wesleyfei1.github.io/blogs/firstyear/week14)
