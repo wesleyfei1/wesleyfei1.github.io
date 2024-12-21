@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/firstyear/week15/index.html
+permalink: /blogs/firstyear/week14/index.html
 title: Levi的大一上week15
 ---
 ## 回顾
