@@ -22,7 +22,7 @@ title: Blogs
 - [2024.12.01第13周的生活](https://wesleyfei1.github.io/blogs/firstyear/week13)
 - [2024.12.08第14周的生活](https://wesleyfei1.github.io/blogs/firstyear/week14)
 - [2024.12.16第15周的生活](https://wesleyfei1.github.io/blogs/firstyear/week15)
-- [第16周的生活](https://wesleyfei1.github.io/blogs/firstyear/week16)
+- [2024.12.23第16周的生活](https://wesleyfei1.github.io/blogs/firstyear/week16)
 - [第17周的生活](https://wesleyfei1.github.io/blogs/firstyear/week17)
 - [第18周的生活](https://wesleyfei1.github.io/blogs/firstyear/week18)
 - [第19周的生活](https://wesleyfei1.github.io/blogs/firstyear/week19)
