@@ -13,13 +13,13 @@ title: Courses
     - 力学A笔记
     - 力学期末复习
 - 习概与思政
-    - [西交大思政笔记](http://wesleyfei1.github.io/courses/大一上/思政)
-    - [习概提纲](https://wesleyfei1.github.io/courses/大一上/习概)
-    - [思政15个大题](https://wesleyfei1.github.io/courses/大一上/思政15大题)
+    - [西交大思政笔记](http://wesleyfei1.github.io/courses/大一上/思政.pdf)
+    - [习概提纲](https://wesleyfei1.github.io/courses/大一上/习概.pdf)
+    - [思政15个大题](https://wesleyfei1.github.io/courses/大一上/思政15大题.docx)
 - 几何学基础
     - 几何学基础课堂笔记
     - 几何学基础期末复习
 - 计算机程序设计
-    - [c语言课堂笔记](https://wesleyfei1.github.io/courses/大一上/c语言笔记)
-    - [C语言知识点整理](https://wesleyfei1.github.io/courses/大一上/C语言知识点整理)
+    - [c语言课堂笔记](https://wesleyfei1.github.io/courses/大一上/c语言笔记.docx)
+    - [C语言知识点整理](https://wesleyfei1.github.io/courses/大一上/C语言知识点整理.docx)
   
