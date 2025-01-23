@@ -10,3 +10,5 @@ title: Ideas
 - [12.17关于电阻网络的思考](https://wesleyfei1.github.io/ideas/2024/电阻网络)
 - [12.20正弦电路](https://wesleyfei1.github.io/ideas/2024/正弦电路)
 - [11.5有关泊松括号的思考](https://wesleyefi1.github.io/ideas/2024/泊松括号)
+- [12.28暂态电路总结](https://wesleyefi1.github.io/ideas/2024/暂态电路)
+- [01.23电路总结](https://wesleyfei1.github.io/ideas/2025/电路总结)
