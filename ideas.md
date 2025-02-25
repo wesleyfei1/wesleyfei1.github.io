@@ -12,3 +12,6 @@ title: Ideas
 - [11.5有关泊松括号的思考](https://wesleyefi1.github.io/ideas/2024/泊松括号)
 - [12.28暂态电路总结](https://wesleyefi1.github.io/ideas/2024/暂态电路)
 - [01.23电路总结](https://wesleyfei1.github.io/ideas/2025/电路总结)
+### 2025
+- [02.10模电总结](https://wesleyfei1.github.io/ideas/2025/模拟电路总结)
+- [02.25概率论总结](https://wesleyfei1.github.io/ideas/2025/概率论总结)
