@@ -15,3 +15,4 @@ title: Ideas
 ### 2025
 - [02.10模电总结](https://wesleyfei1.github.io/ideas/2025/模拟电路总结)
 - [02.25概率论总结](https://wesleyfei1.github.io/ideas/2025/概率论总结)
+- [03.03-学期末 人工智能笔记](https://wesleyfei1.github.io/ideas/2025/人工智能笔记)
