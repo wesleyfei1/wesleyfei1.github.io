@@ -15,6 +15,9 @@ title: Blogs
 ### 大一下
 
 - [大一下每周总结](https://wesleyfei1.github.io/blogs/firstyeart/weekly)
+- [学期总结](https://wesleyfei1.github.io/blogs/firstyeart/学期总结)
+- [苏州蔷薇访学](https://wesleyfei1.github.io/blogs/firstyeart/蔷薇访学-苏州)
+
 
 ---
 ### 高中总结
