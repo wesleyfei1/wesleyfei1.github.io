@@ -4,7 +4,7 @@ layout: page
 
 # Wesley Fei
 
-我的英文名是**Wesley Fei**,中文名叫费维瀚，家乡是安徽省合肥市，现就读于中国科学技术大学少年班学院，目前心仪专业是人工智能。<br>
+我的英文名是**Wesley Fei**,中文名叫费维瀚，家乡是安徽省合肥市，中国科学技术大学少年班学院大二学生，目前主修人工智能。<br>
 -  行政班级:少年班学院8班
 -  地址:中国科学技术大学中区4号楼
 -  班主任: 李童童
@@ -14,7 +14,7 @@ layout: page
 
 ## 社交媒体
 
-- 邮箱: feiwh2400@mail.ustc.edu.cn
+- 邮箱: wesleyfei224@gmail.com
 - b站:  [LeviAkaman的个人主页-bilibili](https://space.bilibili.com/3546714359204345)
 - 知乎：[2400fwh-zhihu.com](https://www.zhihu.com/people/2400fwh/)
 - USTC评课社区：<br>
@@ -43,5 +43,3 @@ layout: page
 - 2024.12 独立完成游戏`我在中国科大卷GPA`
   
 ## 论文情况
-- [费维瀚，日本动漫在理工科大学流行原因调查，2024.11](https://wesleyfei1.github.io/paper/木星对地球轨道偏心率周期性影响探究.pdf)
-- [费维瀚，木星对地球轨道偏心率的周期性影响探究 2024.12](https://wesleyfei1.github.io/paper/日本动漫在理工科大学流行原因调查.pdf)
