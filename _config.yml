@@ -1,0 +1,43 @@
+title: Wesley Fei
+
+url: https://wesleyfei1.github.io
+
+owner:
+  name: Wesley Fei
+  avatar: Levi.jpg
+
+  email: feiwh2400@mail.ustc.edu.cn
+
+  github: wesleyfei1
+  linkedin:  
+  bilibili: https://space.bilibili.com/3546714359204345
+  zhihu: https://www.zhihu.com/people/2400fwh
+
+links:
+  - title: About Me
+    url: /
+  - title: Blogs
+    url: /blogs/
+  - title: Ideas
+    url: /ideas/
+  - title: Courses
+    url: /courses/
+  
+timezone: China/Beijing
+future: true
+highlighter: rouge
+
+permalink: /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+disqus:
+  shortname: Levi
+
+include: [".htaccess"]
+exclude: ["lib" , "config.rb" , "Capfile" , "config" , "log" , "Rakefile" , "Rakefile.rb" , "tmp" , "less" , "minimal-mistakes.sublime-project" , "minimal-mistakes.sublime-workspace"]
