@@ -1,6 +1,6 @@
 ---
 title: 大二上周报
-permalink: /blogs/Sophomore-Fall/index.html
+permalink: /blogs/Sophomore-Fall/index/index.html
 title: weekly report
 ---
 
