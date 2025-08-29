@@ -8,5 +8,5 @@ title: weekly report
 
 ## 8月周报
 
-- [2025.8.13-2025.8.23 cs230学习记录](https://wesleyfei1.github.io/blogs/Sophomore Fall/8.13-8.23.md)
-- [2025.8.24-2025.9.4 cs230学习+知乎写作](https://wesleyfei1.github.io/blogs/Sophomore Fall/8.24-9.4.md)
+- [2025.8.13-2025.8.23 cs230学习记录](https://wesleyfei1.github.io/blogs/Sophomore-Fall/8.13-8.23)
+- [2025.8.24-2025.9.4 cs230学习+知乎写作](https://wesleyfei1.github.io/blogs/Sophomore-Fall/8.24-9.4)

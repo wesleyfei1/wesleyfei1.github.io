@@ -8,7 +8,7 @@ title: Blogs
 
 ## 大二上
 
-- [大二上周报](https://wesleyfei1.github.io/blogs/Sophomore Fall/index)
+- [大二上周报](https://wesleyfei1.github.io/blogs/Sophomore-Fall/index)
 
 ### 大一上
 
