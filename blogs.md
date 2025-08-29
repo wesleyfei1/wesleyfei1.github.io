@@ -6,9 +6,9 @@ title: Blogs
 
 ## My Daily Life
 
-# 大二上
+## 大二上
 
-- [大二上周报]()
+- [大二上周报](https://wesleyfei1.github.io/blogs/Sophomore Fall/index)
 
 ### 大一上
 
@@ -19,7 +19,7 @@ title: Blogs
 
 ### 大一下
 
-- [大一下每周总结](https://wesleyfei1.github.io/blogs/firstyeart/weekly)
+- [大一下每周总结](https://wesleyfei1.github.io/blogs/firstyeart/weekly)（由于学业压力，没有做到每周更新，从这个学期开始改进）
 - [学期总结](https://wesleyfei1.github.io/blogs/firstyeart/学期总结)
 - [苏州蔷薇访学](https://wesleyfei1.github.io/blogs/firstyeart/蔷薇访学-苏州)
 

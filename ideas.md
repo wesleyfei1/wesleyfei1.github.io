@@ -17,3 +17,5 @@ title: Ideas
 - [02.25概率论总结](https://wesleyfei1.github.io/ideas/2025/概率论总结)
 - [03.03-学期末 人工智能笔记](https://wesleyfei1.github.io/ideas/2025/人工智能笔记)
   - [03.04-学期末 matlab学习笔记](https://wesleyfei1.github.io/ideas/2025/Matlab编程笔记)
+
+更多的内容请参见我的知乎以及周报
