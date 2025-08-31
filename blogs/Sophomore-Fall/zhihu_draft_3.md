@@ -40,3 +40,32 @@ when showing the results& making predictions on the results:
 
 对于生成数据
 
+
+
+# About werewolves_arena
+
+[article website](https://arxiv.org/pdf/2407.13943)
+
+## Try to accomplish
+
+how to use werewolves_arena to evaluate the performances of different LLMs. Especially on dynamic turn-taking systems and the evaluating principle
+
+## Key elements
+
+bidding system(mask 0,1,2,3,4 to show how ergent the LLM model want to speak)
+
+evaluation system(arena evaluation& seer evaluation)
+
+**focused on when & how to speak(simulate human's actions better)**
+
+## what can I use
+
+bidding system
+
+more stuff that can be used to evaluate the performances of a LLM system(by game)
+
+## References
+
+more on evaluation on LLM
+
+[Github repo](https://github.com/google/werewolf_arena)
