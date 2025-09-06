@@ -6,8 +6,9 @@ title: Blogs
 
 ## My Daily Life
 
-## 大二上
 
+### 大二上
+- [latest周报9.1-9.7](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.1-9.7)
 - [大二上周报](https://wesleyfei1.github.io/blogs/Sophomore-Fall/index)
 
 ### 大一上
