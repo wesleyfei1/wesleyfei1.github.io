@@ -19,7 +19,8 @@ layout: page
 AI基础：
 
 - [x] Machine Learning: Stanford cs229 By Andrew Ng [Learning Materials](https://github.com/wesleyfei1/stanford-cs229)
-- [ ] Deep Learning: Stanford cs230 By Andrew Ng (Nearly Finished)
+- [x] Deep Learning: Stanford cs230 By Andrew Ng (Nearly Finished)
+- [ ] Data Structure: UC Berkeley cs61b <——here
 
 LLM
 
@@ -35,7 +36,7 @@ CV
 
 Generative AI
 
-- [ ] Diffusion Model Basic: MIT 6.S184<——
+- [x] Diffusion Model Basic: MIT 6.S184
 - [ ] GAN/VAE: Berkely CS294-158
 
 Other
