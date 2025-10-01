@@ -8,7 +8,7 @@ title: Blogs
 
 
 ### 大二上
-- [latest周报9.22-9.28](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.22-9.28)
+- [latest周报9.28-10.05](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.28-10.05)
 - [大二上周报](https://wesleyfei1.github.io/blogs/Sophomore-Fall/index)
 
 ### 大一上

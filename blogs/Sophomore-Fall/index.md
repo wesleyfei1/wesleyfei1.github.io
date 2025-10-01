@@ -16,5 +16,8 @@ title: weekly report
 - [2025.9.1-2025.9.7 MIT6.S184学习,知乎写作,cs61b学习](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.1-9.7)
 - [2025.9.8-9.14 cs61b开始+适应新的学期的课程节奏](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.8-9.14)
 - [2025.9.15-2025.9.21 cs61b数据结构&图论+计算机网络+计算系统概论学习，以及一些小小的讲座](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.15-9.21)
-- [2025.9.22-2025.9.28 cs61b结尾+离散数学等课程的作业完成](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.22-9.28)<-currently
+- [2025.9.22-2025.9.27 cs61b结尾+离散数学等课程的作业完成](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.22-9.27)
 
+## 10月周报
+
+- [2025.9.28-2025.10.05 cs61b结尾，9月课程整理以及各种大作业完成](https://wesleyfei1.github.io/blogs/Sophomore-Fall/9.28-10.05)
