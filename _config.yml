@@ -1,0 +1,79 @@
+title: Wesley Fei
+
+url: https://wesleyfei1.github.io
+
+owner:
+  name: Wesley Fei
+  avatar: Levi.jpg
+
+  email: feiwh2400@mail.ustc.edu.cn
+
+  github: wesleyfei1
+  linkedin:  
+  bilibili: https://space.bilibili.com/3546714359204345
+  zhihu: https://www.zhihu.com/people/2400fwh
+
+
+font_provider: "default" # 保持默认，对中文环境通常最友好
+links:
+  - title: About Me
+    url: /
+  - title: Blogs
+    url: /blogs/
+  - title: Ideas
+    url: /ideas/
+  - title: Courses
+    url: /courses/
+# ------------------------------------
+# Giscus 评论系统配置
+# ------------------------------------
+comments:
+  provider: giscus
+  giscus:
+    repo: "wesleyfei1/wesleyfei1.github.io"
+    repository_id: "R_kgDOPkiKyA"
+    category: "comments"
+    category_id: "DIC_kwDOPkiKyM4Czzs_"
+    mapping: "pathname"
+    reactions_enabled: "1"
+    theme: "light" # 建议改为 "preferred_color_scheme" 以适配用户系统设置
+    input_position: "bottom"
+    lang: "zh-CN"  
+
+future: true
+highlighter: rouge
+
+permalink: /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+include: [".htaccess"]
+exclude: ["lib" , "config.rb" , "Capfile" , "config" , "log" , "Rakefile" , "Rakefile.rb" , "tmp" , "less" , "minimal-mistakes.sublime-project" , "minimal-mistakes.sublime-workspace"]
+
+# ... (在 kramdown: 后面添加)
+
+# ------------------------------------
+# 默认值：启用评论功能
+# ------------------------------------
+defaults:
+  # 针对所有文章 (posts)
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true # 默认对所有文章启用评论
+
+  # 针对所有页面 (pages)
+  - scope:
+      path: ""
+    values:
+      comments: true # 默认对所有页面启用评论
+
+# ... (在 include: [".htaccess"] 前面)
+

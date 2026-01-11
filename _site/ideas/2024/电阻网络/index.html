@@ -1,0 +1,237 @@
+<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
+<!-- It is not recommended to modify this code, unless you are a Pro-->
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
+<head>
+<!-- It is not recommended to modify this code, unless you are a Pro-->
+<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
+
+<meta charset="utf-8">
+<title>有关电阻网络 &#8211; Wesley Fei</title>
+
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="有关电阻网络 &#8211; Wesley Fei">
+<meta property="og:description" content="> **问题:** 对于任何一个由若干个电阻连接而成的有限电阻网络，如果已知每一个电阻的阻值，能否求得任何两个节点之间的等效电阻?### 转化为图论语言由于对于任何的两个电阻之间的连接关系只会是串联或者是并联，因此可以发现对于电阻的性...">
+<meta property="og:url" content="http://localhost:4000/ideas/2024/电阻网络/index.html">
+<meta property="og:site_name" content="Wesley Fei">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/ideas/2024/电阻网络/">
+
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<!-- Google Webfonts -->
+<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous" />
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+<link rel="stylesheet" href="/assets/css/ie.css">
+<![endif]-->
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha512-3n19xznO0ubPpSwYCRRBgHh63DrV+bdZfHK52b1esvId4GsfwStQNPJFjeQos2h3JwCmZl0/LgLxSKMAI55hgw==" crossorigin="anonymous"></script>
+
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/images/fav.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://localhost:4000/images/fav.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/fav.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/fav.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/fav.png">
+
+<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T5N5JY1E21');
+</script>
+
+</head>
+
+
+<body class="page" itemscope itemtype="http://schema.org/WebPage">
+
+<!-- [if lt IE 6]><div class="chrome-frame alert alert-info"><strong>Your browser is really old!</strong> <a href="http://browsehappy.com/">Why not upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better enjoy this site?</div><![endif] -->
+
+<!-- It is not recommended to modify this code, unless you are a Pro-->
+<!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://localhost:4000">Wesley Fei</a>
+	</div><!-- /.site-name -->
+  
+	<div class="top-navigation">
+		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		    <ul>
+		        
+            <li><a href="http://localhost:4000/" >About Me</a></li>
+		        
+            <li><a href="http://localhost:4000/blogs/" >Blogs</a></li>
+		        
+            <li><a href="http://localhost:4000/ideas/" >Ideas</a></li>
+		        
+            <li><a href="http://localhost:4000/courses/" >Courses</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+<!-- Lastly modified by Hanlin CAI in 2023/05/01 -->
+
+
+
+<div id="main" role="main"  itemprop="mainContentOfPage">
+  <div class="article-author-top">
+    <img src="http://localhost:4000/images/Levi.jpg" class="bio-photo" alt="Wesley Fei bio photo" width="100" height="100"></a>
+
+<!-- <h4>Wesley Fei</h4> -->
+
+<p></p>
+
+<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:feiwh2400@mail.ustc.edu.cn" target="_blank"><i class="icon-mail"></i> Email</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-indent:0;"><a href="https://github.com/wesleyfei1"><i class="icon-github"></i> Github</a></p>
+
+
+
+
+
+
+
+
+
+<p style="text-indent:0;"><a href="https://www.zhihu.com/people/2400fwh"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png" width="15.8" height="15.8"></i> Zhihu</a></p>
+
+<p style="text-indent:0;"><a href="https://space.bilibili.com/https://space.bilibili.com/3546714359204345"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png" width="15" height="15"></i> Bilibili</a></p>
+
+
+<!-- Lastly modified by Hanlin CAI in 2023/10/15 -->
+  </div>
+  <article itemscope itemtype="http://schema.org/CreativeWork">
+  
+    <div class="article-wrap" itemprop="text">
+      <blockquote>
+  <p><strong>问题:</strong> 对于任何一个由若干个电阻连接而成的有限电阻网络，如果已知每一个电阻的阻值，能否求得任何两个节点之间的等效电阻?</p>
+  <h3 id="转化为图论语言">转化为图论语言</h3>
+  <p>由于对于任何的两个电阻之间的连接关系只会是串联或者是并联，因此可以发现对于电阻的性质和图论中的边的性质非常的像，因此转化为图论的语言<br />
+对于电路图G1对应的图G2,G1中的每一个节点，都对应这G2中的一个点，而对于G1中的点A1,A2中有一个电阻R1,那么就是在A1,A2中连上一条边，对于阻值是不用考虑的，因为对于我们的目标就是消去所有的点，形成最后的点N,M之间的一条的边，因此只要考虑对于对于图的操作中的点与边的关系,如<br /></p>
+</blockquote>
+<center>
+<img src="/ideas/2024/电阻网络.assets/1.png" />
+</center>
+
+<h3 id="对于串并联星y变换">对于串并联，星Y变换</h3>
+<ul>
+  <li>对于串联而言，就是如果有两个并排连接的电阻，可以将其阻值加起来，
+图论中就是对于任何的一个deg为2的节点A,设其儿子为BC,那么可以将BC之间连起来一条的边，然后将A消去，即为
+    <blockquote>
+      <p>G2中每一个点的deg都大于2</p>
+    </blockquote>
+  </li>
+  <li>并联实际上，就是对于两个点之间如果有好多条边，那么可以将他们合并成一条的边，即为
+    <blockquote>
+      <p>G2中没有重边</p>
+    </blockquote>
+  </li>
+  <li>对于星Y变换，实际上就是用下面的图片解释
+    <center>
+<img src="/ideas/2024/电阻网络.assets/2.png" />
+</center>
+  </li>
+</ul>
+<p>&lt;/center&gt;</p>
+
+<h3 id="回到原来的问题">回到原来的问题</h3>
+<p>对于原来的图G2由串联关系可以保证对于任何的点的度都是&gt;=3的，而取其中的度最小的哪一个点，重复执行星Y变换，从而当该点无法继续执行该变换的时候有该店要么直接去掉，要么就是由串联消去
+总之每一次的这样的操作都可以消去G2中的一个点，从而点的数量会不断的减少，直到不存在满足deg&gt;=3的点，此时只有N,M之间有边，即为用以上的几种的变换就理论上可以解答出所有的电阻网络</p>
+
+<blockquote>
+  <p>是时候该立体机动装置登场了 ——纳拿巴</p>
+</blockquote>
+
+    </div><!-- /.article-wrap -->
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    <h6>&copy; 2025 Wesley Fei.
+  Published with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>,
+  powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
+  based on the <a href="https://mademistakes.com/" rel="nofollow">Minimal Mistakes</a> theme.
+  Source code for this website can be found <a href="https://github.com/GuangLun2000/GuangLun2000.github.io" rel="nofollow">here</a>.
+
+  <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script> -->
+  
+</h6>
+
+
+<!-- Lastly modified by Hanlin CAI in 2023/03/16 -->
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/main.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'G-T5N5JY1E21', 'caihanlin.com');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- https://analytics.google.com/analytics/ -->
+<!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
+
+</body>
+</html>
