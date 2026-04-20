@@ -22,5 +22,5 @@ I'm **Weihan Fei (费伟涵)**, a sophomore undergraduate student at <a href="ht
 
 <br><br><br>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=KQq7wmoOFK01AWtI-EgkopWeIANNwkKygR72ToCU_YU&co=2d90ad&cmo=e27b7b&cmn=ff9600'></script>
+<!-- Visitor tracker -->
 <!-- {% include base_path %} -->
