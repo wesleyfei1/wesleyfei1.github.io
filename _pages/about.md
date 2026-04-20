@@ -10,13 +10,7 @@ redirect_from:
 
 I'm **Weihan Fei (&#36153;&#32500;&#28722;)**, a sophomore undergraduate student at <a href="https://www.ustc.edu.cn/">the University of Science and Technology of China (USTC)</a>, School of the Gifted Young, majoring in Artificial Intelligence (GPA: 3.87/4.3, Rank: 14/103).
 
-My research is guided by two preferences. First, I like **finding-driven work**: starting from concrete empirical phenomena and then designing mechanisms that explain or improve them. Second, I am especially drawn to methods that are concise, mathematically intuitive, and structurally elegant. In general, I believe the best ideas are often the ones that make a problem simpler and clearer.
-
-This perspective is also why I am interested in AI interpretability and safety. Beyond building capable systems, I care about whether humans can still understand, supervise, and control them in a principled way.
-
-I am currently working on adaptive-thinking in generative recommendation and hierarchical query-to-query retrieval for long-context agent memory. I am also interested in the intersection of AI and software engineering.
-
-I have also pursued a self-directed course of study in machine learning and systems, including **Stanford CS229 (Machine Learning)**, **CS230 (Deep Learning)**, **CS224n (Natural Language Processing)**, **MIT 6.S184 (Generative AI Foundations)**, and **Berkeley CS61B (Data Structures)**.
+My research is finding-driven: I like to start from concrete empirical phenomena and design mechanisms that explain or improve them, especially when the resulting ideas are concise, mathematically intuitive, and structurally elegant. My current research focuses on **adaptive-thinking in generative recommendation** and **hierarchical query-to-query retrieval for long-context agent memory**, and I am also interested in AI interpretability and safety because I care about whether humans can still understand, supervise, and control AI systems in a principled way. I have also pursued self-directed study in machine learning and systems, including **Stanford CS229 (Machine Learning)**, **CS230 (Deep Learning)**, **CS224n (Natural Language Processing)**, **MIT 6.S184 (Generative AI Foundations)**, and **Berkeley CS61B (Data Structures)**.
 
 # News
 - [Mar 2026] I started research on **QQMem: Hierarchical Query-to-Query Retrieval for Long-Context Agent Memory**, supervised by <a href="https://xiangwang1223.github.io/">Prof. Xiang Wang</a>
