@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education Experiences"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,27 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+<p>
+  <a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary" download>
+    Download CV (PDF)
+  </a>
+</p>
+
+I am interested in generative recommendation, long-context memory for LLM agents, and efficient reasoning and retrieval mechanisms. Across these topics, I usually work in a finding-driven way: starting from concrete behavioral observations, then designing mechanisms that are concise, empirically grounded, and easy to reason about.
 
 # Education
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 1; max-width: 120px;">
-    <img src="../images/about/ustc.jpg" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 6; padding-left: 20px;">
-    <p style="margin: 0;"><strong>University of Science and Technology of China (USTC)</strong><br>
-    2024.9 -- Expected 2028<br>
-    School of the Gifted Young<br>
-    B.S. in Artificial Intelligence<br>
-    GPA: 3.87/4.3 &nbsp; Rank: 14/103
-    </p>
-  </div>
-</div>
+- **B.S. in Artificial Intelligence**, University of Science and Technology of China (USTC), School of the Gifted Young &nbsp; *Expected 2028*
+- **GPA:** 3.87/4.3 &nbsp; **Rank:** 14/103
+- **Selected Core Coursework:** Discrete Mathematics (100), Probability and Mathematical Statistics (92), Linear Algebra B(1) (90), Data Structures A (90)
+- **Selected Self-Directed Coursework:** Stanford CS229, CS230, CS224n, MIT 6.S184, Berkeley CS61B
 
-# Selected Coursework
-- **Core Courses:** Discrete Mathematics (100), Probability and Mathematical Statistics (92), Linear Algebra B(1) (90), Data Structures A (90).
-- **Advanced Coursework (Self-Directed):** Stanford CS229 (Machine Learning), CS230 (Deep Learning), CS224n (Natural Language Processing), MIT 6.S184 (Generative AI Foundations), Berkeley CS61B (Data Structures).
-- **Languages:** Mandarin (native), English (TOEFL 89/120).
 
 # Research Experience
 

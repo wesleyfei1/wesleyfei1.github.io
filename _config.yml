@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weihan Fei"
 title_separator          : "-"
 name                     : &name "Weihan Fei"
-description              : &description "Undergraduate student at USTC, interested in generative recommendation and LLM agents"
+description              : &description "USTC undergraduate working on generative recommendation, LLM agent memory, and finding-driven AI research"
 url                      : https://wesleyfei1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wesleyfei1/wesleyfei1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weihan Fei"
   avatar           : "Levi.jpg"
-  bio              : "Undergraduate student at USTC, interested in generative recommendation and LLM agents"
+  bio              : "USTC undergraduate studying generative recommendation and LLM agent memory"
   location         : "Hefei, China"
   employer         :
   pubmed           :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "2400fwh"
 
 
 # Reading Files
