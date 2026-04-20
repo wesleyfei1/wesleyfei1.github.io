@@ -1,20 +1,27 @@
 source "https://rubygems.org"
 
-# 确保使用 Jekyll 3.7+ 版本
-gem "jekyll", "~> 3.7"
+# Hello! This is where you manage which Jekyll version is used to run.
+# When you want to use a different version, change it below, save the
+# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+#
+#     bundle exec jekyll serve
+#
+# This will help ensure the proper Jekyll version is running.
+# Happy Jekylling!
 
-# Minimal Mistakes 主题依赖
-gem "minimal-mistakes-jekyll"
+gem "github-pages", group: :jekyll_plugins
 
-# 解决 Ruby 3.4+ 版本的兼容性问题
-gem "base64" 
-gem "bigdecimal" 
-gem "tzinfo" # <--- 【请添加这一行】
-# 【新增】解决 Markdown 解析器缺失问题
-gem "kramdown-parser-gfm" # <--- 【请添加这一行】
+# If you want to use Jekyll native, uncomment the line below.
+# To upgrade, run `bundle update`.
 
+# gem "jekyll"
+
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# If you have any plugins, put them here!
 group :jekyll_plugins do
+  # gem "jekyll-archives"
   gem "jekyll-feed"
-  gem "jekyll-sitemap"
-  gem "jekyll-include-cache"
+  gem 'jekyll-sitemap'
+  gem 'hawkins'
 end
