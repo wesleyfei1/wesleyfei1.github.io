@@ -15,14 +15,14 @@ redirect_from:
   </a>
 </p>
 
-I am interested in generative recommendation, long-context memory for LLM agents, and efficient reasoning and retrieval mechanisms. Across these topics, I usually work in a finding-driven way: starting from concrete behavioral observations, then designing mechanisms that are concise, empirically grounded, and easy to reason about.
+I am interested in interpretable and reliable AI systems, especially LLM agents, memory mechanisms, and human-centered recommendation. I am interested in methods with clear mathematical structure and empirical grounding, where model behavior can be analyzed, verified, and connected to human needs.
 
 # Education
 
 - **B.S. in Artificial Intelligence**, University of Science and Technology of China (USTC), School of the Gifted Young &nbsp; *Expected 2028*
 - **GPA:** 3.87/4.3 &nbsp; **Rank:** 14/103
-- **Selected Core Coursework:** Discrete Mathematics (100), Probability and Mathematical Statistics (92), Linear Algebra B(1) (90), Data Structures A (90)
-- **Selected Self-Directed Coursework:** Stanford CS229, CS230, CS224n, MIT 6.S184, Berkeley CS61B
+- **Selected Core Coursework:** Mathematical Analysis (97), Discrete Mathematics (100), Probability and Mathematical Statistics (92), Linear Algebra B(1) (90), Data Structures A (90)
+- **Self-Directed AI/CS Study:** Since July 2025, completed full assignment tracks for Berkeley CS61B, Stanford CS229, CS230, and CS224n, with implementations documented in GitHub repositories; also studied MIT 6.S184.
 
 
 # Research Experience
@@ -36,7 +36,7 @@ I am interested in generative recommendation, long-context memory for LLM agents
     Nov 2025 -- Present<br>
     Advisor: <a href="https://anzhang314.github.io/">Prof. An Zhang</a><br>
     <strong>Adaptive-Thinking for Generative Recommendation</strong><br>
-    Studied a consistent behavioral gap between "think" and "not-think" inference in generative recommendation, especially their differences in predictive entropy, popularity bias, and downstream recommendation quality. Based on these findings, developed an adaptive-thinking framework that selectively invokes reasoning only when uncertainty is high, aiming to balance effectiveness and inference cost. Work in preparation for submission to NeurIPS 2026.
+    Investigating the behavioral gap between "think" and "not-think" inference in generative recommendation, motivated by the observation that explicit reasoning can hurt performance on simpler reasoning tasks. Studying whether the two inference modes rely on different recommendation signals, such as collaborative filtering patterns, popularity bias, user-item affinity, and semantic item descriptions.
     </p>
   </div>
 </div>
@@ -49,22 +49,22 @@ I am interested in generative recommendation, long-context memory for LLM agents
     <p style="margin: 0;"><strong>Research Intern, USTC</strong><br>
     Mar 2026 -- Present<br>
     Advisor: <a href="https://xiangwang1223.github.io/">Prof. Xiang Wang</a><br>
-    <strong>QQMem: Hierarchical Query-to-Query Retrieval for Long-Context Agent Memory</strong><br>
-    Developing a memory retrieval framework for LLM agents motivated by the observation that direct episode retrieval is often semantically brittle in long-context settings. QQMem replaces episode-level matching with query-space alignment, using structured intermediate queries as semantic anchors to support more stable retrieval and grounded generation. Work in preparation for submission to NeurIPS 2026.
+    <strong>SHELF: From Similarity Retrieval to Path-Aware Auditable Memory for LLM Agents</strong> [Under Review at NeurIPS 2026]<br>
+    Contributed to the theoretical formulation of SHELF, a path-aware auditable memory framework that writes facts into explicit structural addresses and retrieves evidence through query-conditioned paths. Designed the Auditor-Gater mechanism for variable-level path diagnosis; evaluated SHELF on LoCoMo with Qwen3-8B, Qwen3-32B, and DeepSeek-V3.2, achieving the best Overall F1, BLEU, and LLM-judge scores among compared memory baselines.
     </p>
   </div>
 </div>
 
 # Honors and Awards
 - **Undergraduate Research Opportunities Program (UROP)**, Research on Generative Recommendation Systems based on Large Language Models, advised by [Prof. An Zhang](https://anzhang314.github.io/) &nbsp; *Dec 2025 -- Present*
-- **First Prize (Provincial Level)**, The 17th Chinese Mathematics Competitions (Non-Math Major, top 20) &nbsp; *Oct 2025*
+- **First Prize (Provincial Level, Top 20)**, The 17th Chinese Mathematics Competitions, Non-Math Major Track &nbsp; *Oct 2025*
 - **Silver Prize**, Outstanding Undergraduates Scholarship &nbsp; *Sept 2025*
 - **Bronze Prize**, Outstanding Student Scholarship &nbsp; *Dec 2024*
 
 # Skills
-- **Research:** Literature review, experimental design, empirical analysis, and end-to-end implementation for machine learning research.
-- **Programming:** Python, C, Java, Shell/Bash.
-- **ML Frameworks:** PyTorch, Hugging Face, vLLM, verl.
-- **Model Training:** Supervised fine-tuning (SFT), preference optimization (RLHF, DPO, RLvR), parameter-efficient tuning (LoRA), inference-time prompting and reasoning.
+- **Research:** Paper reading and synthesis, experimental design, empirical analysis, ablation studies, and end-to-end implementation for ML research.
+- **Programming:** Python, C, Java, Shell/Bash; familiar with Linux command-line workflows.
+- **LLM Frameworks:** PyTorch, Hugging Face Transformers, vLLM, verl.
+- **Training & Inference:** SFT with LoRA, RL training with verl, preference-optimization basics, inference-time prompting and reasoning.
 - **Tools:** Linux, Git, Conda, tmux, nvitop, Weights & Biases.
-- **Engineering:** Rapid prototyping with LLM-assisted coding workflows and modern web tooling.
+- **Engineering:** Rapid prototyping, debugging, and LLM-assisted research implementation.

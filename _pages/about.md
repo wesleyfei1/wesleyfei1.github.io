@@ -10,14 +10,28 @@ redirect_from:
 
 I'm **Weihan Fei**, a sophomore undergraduate student at <a href="https://www.ustc.edu.cn/">the University of Science and Technology of China (USTC)</a>, School of the Gifted Young, majoring in Artificial Intelligence (GPA: 3.87/4.3, Rank: 14/103).
 
-My research is finding-driven: I like to start from concrete empirical phenomena and design mechanisms that explain or improve them, especially when the resulting ideas are concise, mathematically intuitive, and structurally elegant. My current research focuses on **adaptive-thinking in generative recommendation** and **hierarchical query-to-query retrieval for long-context agent memory**, and I am also interested in AI interpretability and safety because I care about whether humans can still understand, supervise, and control AI systems in a principled way. 
+My research interests lie in **interpretable and reliable AI systems**, especially LLM agents, long-term memory, retrieval/reasoning mechanisms, and human-centered recommendation. I am particularly interested in methods with clear mathematical structure and empirical grounding, where model behavior can be analyzed, verified, and connected to human needs.
 
-I have also pursued self-directed study in machine learning and systems, including **Stanford CS229 (Machine Learning)**, **CS230 (Deep Learning)**, **CS224n (Natural Language Processing)**, **MIT 6.S184 (Generative AI Foundations)**, and **Berkeley CS61B (Data Structures)**.
+I started systematic AI study in July 2025 and have completed full assignment tracks for **Berkeley CS61B**, **Stanford CS229**, **CS230**, and **CS224n**, with implementations documented in GitHub repositories. I also studied **MIT 6.S184 (Generative AI Foundations)** and have been reading broadly across LLM reasoning, recommendation, and agent memory.
+
+# Research
+
+**SHELF: From Similarity Retrieval to Path-Aware Auditable Memory for LLM Agents**  
+Research Intern, USTC, advised by <a href="https://xiangwang1223.github.io/">Prof. Xiang Wang</a>  
+**Under Review at NeurIPS 2026**
+
+Through a broad survey of LLM-agent memory literature, I identified a coupled bottleneck in existing systems: structure is often used only after similarity retrieval, while reflection gives verbal failure feedback without specifying which access decision should be repaired. I contributed to the theoretical formulation of SHELF, a path-aware auditable memory framework that writes facts into explicit structural addresses and retrieves evidence through query-conditioned paths over entity, facet, time, relation, provenance, and coverage variables. SHELF was evaluated on LoCoMo with Qwen3-8B, Qwen3-32B, and DeepSeek-V3.2, achieving the best Overall F1, BLEU, and LLM-judge scores among compared memory baselines.
+
+**Adaptive-Thinking for Generative Recommendation**  
+Research Intern, <a href="https://anzhang314.github.io/">Alpha-Lab</a>, USTC, advised by <a href="https://anzhang314.github.io/">Prof. An Zhang</a>
+
+I am investigating the behavioral gap between "think" and "not-think" inference in generative recommendation, motivated by the observation that explicit reasoning can hurt performance on simpler reasoning tasks. I am studying whether these two inference modes rely on different recommendation signals, such as collaborative filtering patterns, popularity bias, user-item affinity, and semantic item descriptions, and exploring criteria for deciding when reasoning should be invoked.
 
 # News
-- [Mar 2026] I started research on **QQMem: Hierarchical Query-to-Query Retrieval for Long-Context Agent Memory**, supervised by <a href="https://xiangwang1223.github.io/">Prof. Xiang Wang</a>
-- [Nov 2025] I joined <a href="https://anzhang314.github.io/">Alpha-Lab</a> at USTC, working on **Adaptive-Thinking for Generative Recommendation** under the supervision of <a href="https://anzhang314.github.io/">Prof. An Zhang</a>
-- [Oct 2025] I won the **First Prize (Provincial Level)** at the 17th Chinese Mathematics Competitions (Non-Math Major, top 20)
+- [May 2026] **SHELF** is under review at **NeurIPS 2026**.
+- [Mar 2026] I started research on **SHELF: Path-Aware Auditable Memory for LLM Agents**, supervised by <a href="https://xiangwang1223.github.io/">Prof. Xiang Wang</a>.
+- [Nov 2025] I joined <a href="https://anzhang314.github.io/">Alpha-Lab</a> at USTC, working on **Adaptive-Thinking for Generative Recommendation** under the supervision of <a href="https://anzhang314.github.io/">Prof. An Zhang</a>.
+- [Oct 2025] I won the **First Prize (Provincial Level, Top 20)** at the 17th Chinese Mathematics Competitions, Non-Math Major Track.
 - [Sept 2025] I was awarded the **Silver Prize** of the Outstanding Undergraduates Scholarship
 
 
