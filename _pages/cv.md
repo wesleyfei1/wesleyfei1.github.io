@@ -15,7 +15,7 @@ redirect_from:
   </a>
 </p>
 
-I am interested in interpretable and reliable AI systems, especially LLM agents, memory mechanisms, and human-centered recommendation. I am interested in methods with clear mathematical structure and empirical grounding, where model behavior can be analyzed, verified, and connected to human needs.
+I am interested in interpretable AI systems, with a focus on understanding and shaping the mechanisms behind LLM reasoning, agent memory, and human-centered recommendation. I am particularly interested in methods with clear mathematical or geometric structure that explain empirical phenomena, support verification, and make AI behavior more reliable and safe.
 
 # Education
 

@@ -10,7 +10,7 @@ redirect_from:
 
 I'm **Weihan Fei**, a sophomore undergraduate student at <a href="https://www.ustc.edu.cn/">the University of Science and Technology of China (USTC)</a>, School of the Gifted Young, majoring in Artificial Intelligence (GPA: 3.87/4.3, Rank: 14/103).
 
-My research interests lie in **interpretable and reliable AI systems**, especially LLM agents, long-term memory, retrieval/reasoning mechanisms, and human-centered recommendation. I am particularly interested in methods with clear mathematical structure and empirical grounding, where model behavior can be analyzed, verified, and connected to human needs.
+My research interests lie in **interpretable AI systems**, with a focus on understanding and shaping the mechanisms behind LLM reasoning, agent memory, and human-centered recommendation. I am particularly interested in methods with clear mathematical or geometric structure that explain empirical phenomena, support verification, and make AI behavior more reliable and safe.
 
 I started systematic AI study in July 2025 and have completed full assignment tracks for **Berkeley CS61B**, **Stanford CS229**, **CS230**, and **CS224n**, with implementations documented in GitHub repositories. I also studied **MIT 6.S184 (Generative AI Foundations)** and have been reading broadly across LLM reasoning, recommendation, and agent memory.
 

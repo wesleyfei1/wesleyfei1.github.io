@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weihan Fei"
 title_separator          : "-"
 name                     : &name "Weihan Fei"
-description              : &description "USTC undergraduate working on interpretable and reliable AI systems, LLM agent memory, and human-centered recommendation"
+description              : &description "USTC undergraduate working on interpretable AI systems, LLM agent memory, and human-centered recommendation"
 url                      : https://wesleyfei1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wesleyfei1/wesleyfei1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weihan Fei"
   avatar           : "Levi.jpg"
-  bio              : "USTC undergraduate studying interpretable and reliable AI systems"
+  bio              : "USTC undergraduate studying interpretable AI systems"
   location         : "Hefei, China"
   employer         :
   pubmed           :

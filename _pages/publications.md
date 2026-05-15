@@ -5,19 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Work in Progress
+# Publications and Preprints
 
-Here are my current research projects. I focus on finding-driven research: starting from observable model behavior, then developing targeted and concise mechanisms to improve performance and reliability. Papers will be updated upon acceptance.
+My research focuses on interpretable AI systems: understanding and shaping the mechanisms behind LLM reasoning, agent memory, and human-centered recommendation. I am particularly interested in methods with clear mathematical or geometric structure that explain empirical phenomena, support verification, and make AI behavior more reliable and safe.
+
+- **SHELF: From Similarity Retrieval to Path-Aware Auditable Memory for LLM Agents**  
+  Weihan Fei, advised by Prof. Xiang Wang  
+  *Under Review at NeurIPS 2026*  
+  <span style="font-family: 'Times New Roman';"><i>-- Path-aware auditable memory for LLM agents, with explicit retrieval paths, variable-level diagnosis, and targeted path revision.</i></span>
+
+# Work in Progress
 
 - **Adaptive-Thinking for Generative Recommendation**  
   Weihan Fei, advised by Prof. An Zhang  
-  *In preparation for NeurIPS 2026*  
-  <span style="font-family: 'Times New Roman';"><i>-- Balancing effectiveness and inference cost via selective reasoning in generative recommendation.</i></span>
-
-- **QQMem: Hierarchical Query-to-Query Retrieval for Long-Context Agent Memory**  
-  Weihan Fei, advised by Prof. Xiang Wang  
-  *In preparation for NeurIPS 2026*  
-  <span style="font-family: 'Times New Roman';"><i>-- Query-space alignment for more stable memory retrieval and grounded generation in long-context LLM agents.</i></span>
+  *Ongoing research*  
+  <span style="font-family: 'Times New Roman';"><i>-- Investigating when explicit reasoning helps or hurts generative recommendation, and whether think/not-think inference relies on different recommendation signals.</i></span>
 
 
 {% if author.googlescholar %}
