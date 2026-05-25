@@ -55,6 +55,12 @@ I am interested in interpretable AI systems, with a focus on understanding and s
   </div>
 </div>
 
+# Selected Projects
+
+**CoSwipe: AI Companion for Short-Video Feed Interaction** &nbsp; *May 2026*  
+Third Prize, Track 1, Douyin AI Innovator Plan 2026 Hackathon, USTC Station.  
+Designed an AI companion experience embedded in the short-video feed, turning passive scrolling into friend-like interaction. Proposed Mirror, Direct, and Challenge modes so the companion can playfully point out behavior contrasts, name latent needs behind surface interests, and invite lightweight participation rather than only providing generic emotional comfort. [[Demo](https://johnny-xuan.github.io/CoSwipe/)]
+
 # Honors and Awards
 - **Undergraduate Research Opportunities Program (UROP)**, Research on Generative Recommendation Systems based on Large Language Models, advised by [Prof. An Zhang](https://anzhang314.github.io/) &nbsp; *Dec 2025 -- Present*
 - **First Prize (Provincial Level, Top 20)**, The 17th Chinese Mathematics Competitions, Non-Math Major Track &nbsp; *Oct 2025*

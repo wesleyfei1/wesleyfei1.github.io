@@ -27,7 +27,15 @@ Research Intern, <a href="https://anzhang314.github.io/">Alpha-Lab</a>, USTC, ad
 
 I am investigating the behavioral gap between "think" and "not-think" inference in generative recommendation, motivated by the observation that explicit reasoning can hurt performance on simpler reasoning tasks. I am studying whether these two inference modes rely on different recommendation signals, such as collaborative filtering patterns, popularity bias, user-item affinity, and semantic item descriptions, and exploring criteria for deciding when reasoning should be invoked.
 
+# Projects
+
+**CoSwipe: AI Companion for Short-Video Feed Interaction**  
+Third Prize, Track 1, Douyin AI Innovator Plan 2026 Hackathon, USTC Station
+
+CoSwipe is an AI companion experience embedded in the short-video feed. Instead of being a generic emotional companion, it acts more like a browsing friend: it can notice what users just watched, playfully point out behavior contrasts, name latent needs behind surface interests, invite lightweight participation, and make subsequent content feel more personally connected. [[Demo](https://johnny-xuan.github.io/CoSwipe/)]
+
 # News
+- [May 2026] Our project **CoSwipe** won Third Prize in Track 1 at the Douyin AI Innovator Plan 2026 Hackathon, USTC Station.
 - [May 2026] **SHELF** is under review at **NeurIPS 2026**.
 - [Mar 2026] I started research on **SHELF: Path-Aware Auditable Memory for LLM Agents**, supervised by <a href="https://xiangwang1223.github.io/">Prof. Xiang Wang</a>.
 - [Nov 2025] I joined <a href="https://anzhang314.github.io/">Alpha-Lab</a> at USTC, working on **Adaptive-Thinking for Generative Recommendation** under the supervision of <a href="https://anzhang314.github.io/">Prof. An Zhang</a>.

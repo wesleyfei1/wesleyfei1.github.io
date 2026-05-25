@@ -21,6 +21,12 @@ My research focuses on interpretable AI systems: understanding and shaping the m
   *Ongoing research*  
   <span style="font-family: 'Times New Roman';"><i>-- Investigating when explicit reasoning helps or hurts generative recommendation, and whether think/not-think inference relies on different recommendation signals.</i></span>
 
+# Selected Projects
+
+- **CoSwipe: AI Companion for Short-Video Feed Interaction**  
+  Third Prize, Track 1, Douyin AI Innovator Plan 2026 Hackathon, USTC Station  
+  <span style="font-family: 'Times New Roman';"><i>-- An AI companion experience embedded in the short-video feed, designed to notice browsing behavior, respond like a friend, and make downstream content feel more personally connected.</i></span> [[Demo](https://johnny-xuan.github.io/CoSwipe/)]
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
